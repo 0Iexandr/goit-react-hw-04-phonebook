@@ -1,0 +1,12 @@
+.title {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+}
+
+.subtitle {
+  font-size: 32px;
+  position: absolute;
+  top: 10%;
+  left: 65%;
+}
